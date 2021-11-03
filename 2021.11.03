@@ -1,0 +1,33 @@
+# 오늘 한 일
+
+## 테스트 자동화 학습
+
+#### https://meetup.toast.com/posts/174
+
+- 애자일 방법론을 적용하기 위해서는 테스트 자동화가 필수적임
+- 단위, 통합, E2E 테스트를 통해 효율적인 프로젝트 수행 가능
+
+## cypress 사용
+
+#### https://github.com/adhrinae/react-testing-tutorial-kr
+- 프론트엔드 E2E 테스트 도구
+- mocha&chai 기반으로 모듈 테스트도 가능
+
+<br>
+
+## postman 사용
+
+#### https://gngsn.tistory.com/25
+
+- API 테스트 도구
+
+<br>
+
+## Spring 기초 학습
+
+#### https://khj93.tistory.com/entry/Spring-Spring-Framework%EB%9E%80-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC
+
+- IOC (DI, DL)
+- POJO
+- AOP
+- MVC
